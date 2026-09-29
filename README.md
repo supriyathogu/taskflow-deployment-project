@@ -1,4 +1,4 @@
-# TaskFlow — Git & Deployment Practice Project
+# TaskFlow — Git & Deployment Project
 
 TaskFlow is a responsive task-management web application built using:
 
@@ -42,7 +42,7 @@ Simply open `index.html` in your browser.
 
 For a better local development experience, use VS Code with the Live Server extension.
 
-## Git Practice
+## Git
 
 Open the terminal inside this project folder.
 
@@ -90,7 +90,7 @@ git remote add origin https://github.com/YOUR-USERNAME/taskflow-git-practice.git
 git push -u origin main
 ```
 
-## Git Practice Challenges
+## Challenges
 
 After the first push, practice making changes.
 
@@ -157,7 +157,3 @@ git pull
 git push
 git remote -v
 ```
-
-## Suggested Recruiter Portfolio Description
-
-> Built a responsive task management web application using HTML, CSS and JavaScript, implementing CRUD-style task interactions, filtering, search, LocalStorage persistence and responsive UI. Managed the project using Git and GitHub and deployed it as a static web application.
